@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world_welcome_to_my_application">Hello World Welcome To My Application!</string>
+    <string name="edit_message">Enter Message</string>
+    <string name="button_send">SEND</string>
+</resources>
